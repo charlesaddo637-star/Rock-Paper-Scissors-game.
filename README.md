@@ -16,7 +16,7 @@ Players compete against the computer, and the first to reach 3 points wins the g
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **JavaScript (ES6)**: Game logic and DOM manipulation
 - **HTML**: Structure of the game interface
 - **CSS**: Styling and layout (optional, depending on your design)

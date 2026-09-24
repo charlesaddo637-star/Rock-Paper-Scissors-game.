@@ -1,13 +1,13 @@
 # Rock-Paper-Scissors-game.
 A simple game of rock, paper, scissors! built using HTML, CSS and javascript.
-# 🎮 Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 A simple interactive **Rock-Paper-Scissors** game built with **JavaScript, HTML, and CSS**.  
 Players compete against the computer, and the first to reach 3 points wins the game!
 
 ---
 
-## ✨ Features
+##  Features
 - Random computer choice generation (`Rock`, `Paper`, or `Scissors`)
 - Score tracking for both player and computer
 - Round results displayed after each move
@@ -23,7 +23,7 @@ Players compete against the computer, and the first to reach 3 points wins the g
 
 ---
 
-## 🚀 How to Play
+##  How to Play
 1. Open the game in your browser.
 2. Click one of the buttons: **Rock**, **Paper**, or **Scissors**.
 3. The computer will randomly select its option.
@@ -32,8 +32,6 @@ Players compete against the computer, and the first to reach 3 points wins the g
    - Computer win → Computer score increases
    - Tie → No score change
 5. First to **3 points** wins the game.
-6. Use the **Reset Game** button to start over.
 
 ---
 
-## 📂 Project Structure
